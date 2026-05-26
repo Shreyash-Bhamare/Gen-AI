@@ -1,0 +1,10 @@
+{
+    "chat.mcp.discovery.enabled": {
+        "cursor-global": true
+    },
+    "chat.mcp.assisted.nuget.enabled": true,
+    "chat.mcp.serverSampling": {
+
+    }
+    
+}
